@@ -33,10 +33,8 @@ powerbi-student-performance/
 ├─ data/
 │  └─ study_performance.csv
 ├─ docs/
-│  ├─ data_dictionary.md
-│  ├─ modeling.md
-│  └─ dax_measures.md
-└─ images/
-   ├─ cover.png
-   └─ sheets/
+   ├─ data_dictionary.md
+   ├─ modeling.md
+   └─ dax_measures.md
+
 ```
